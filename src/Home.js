@@ -22,7 +22,7 @@ class Home extends Component {
       storageBucket: "react1-697c3.appspot.com",
       messagingSenderId: "190614813192"
     };
-    firebase.initializeApp(config);
+    //firebase.initializeApp(config);
   }
 
     render() {
